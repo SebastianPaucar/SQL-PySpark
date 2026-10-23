@@ -1,0 +1,7 @@
+*~*
+*#*
+datasets/
+projects/**/warehouse/*.duckdb
+__pycache__/
+*.py[cod]
+*$py.class
